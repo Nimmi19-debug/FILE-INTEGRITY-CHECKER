@@ -20,3 +20,7 @@ The tool is useful for:
 * Detecting unauthorized changes in files
 * Verifying downloaded files against official checksums
 * Teaching basic file security and hashing concepts
+
+"OUTPUT":
+
+![Image](https://github.com/user-attachments/assets/0e69043b-4124-4acc-a5b9-5c14f9f22222)
